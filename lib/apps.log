@@ -1,0 +1,8 @@
+[2019/09/12 17:14:17] INFO output infomation
+[2019/09/12 17:14:17] WARN output warning message
+[2019/09/12 17:14:17] ERROR output error message
+[2019/09/12 17:14:17] DEBUG output debug message
+[2019/09/12 17:14:33] INFO output infomation
+[2019/09/12 17:14:33] WARN output warning message
+[2019/09/12 17:14:33] ERROR output error message
+[2019/09/12 17:14:33] DEBUG output debug message
